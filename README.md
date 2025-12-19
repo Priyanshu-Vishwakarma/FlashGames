@@ -36,6 +36,8 @@ FlashGames is a JavaScript-based web application that brings together multiple c
 - CSS3
 
 ## Project Structure
+```text
+
 FlashGames/
 │── sudoku/
 │── tic-tac-toe/
@@ -46,6 +48,7 @@ FlashGames/
 │── styles.css
 │── script.js
 
+```
 
 ## Key Learnings
 - Practical implementation of search algorithms and decision trees
